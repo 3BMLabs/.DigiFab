@@ -1,4 +1,4 @@
-# .DigiFab (0.0.7)
+# .DigiFab (V0.0.7)
 A Dynamo Package for Digital Fabrication by 3BMLabs (WIP)
 
 If you have any questions or issues about the package feel free to create a new issue on our GitHub repository.
